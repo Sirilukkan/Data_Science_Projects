@@ -1,3 +1,3 @@
 **Exploratory Data Analysis (EDA)**. 
 This is the process of data preprocessing to gain insight into data and transform raw data into format that can then use in. 
-data driven-decision making.
+data driven-decision making. They are the case studies from Applied Data Science Program from Great Learning by MIT.
