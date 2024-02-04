@@ -27,3 +27,7 @@ There are a total of 24,958 train and 2,600 test images (colored) that we have t
 
 Parasitized: The parasitized cells contain the Plasmodium parasite which causes malaria
 Uninfected: The uninfected cells are free of the Plasmodium parasites
+
+This is a link to the dataset [https://drive.google.com/file/d/1n3o1Xghpy9ufZwHkQFE5l5d9sUHQOUWM/view]  
+Description of data in the link above:  
+Unzip cell_images.zip. In the cell_images folder, there are train and test folders that contains Parasitized and Uninfected images.
