@@ -1,4 +1,8 @@
 **This project is about how to detect malaria from red blood cells images**  
+
+**I am writing a code in Google Colab to use the GPU for Neural Network Training.**
+
+
 ## **Context**
 ------
 Malaria is one of contagious disease that is serious and sometimes can cause death and it is still a burden to global health. The cause of malaria is from the plasmodium parasites which transmit to human through the bite of female Anopheles mosquitoes. These parasites can damage the red blood cells (RBCs) that carry the oxygen. The symptoms of fever, headache and chills usually appear 10-15 days after the infective mosquito bite, which can be difficult to detect, and some parasites can cause deaths in 24 hours. 
