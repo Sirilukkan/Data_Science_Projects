@@ -1,4 +1,4 @@
-**This project is about how to detect malaria from red blood cells images**  
+**This project is about how to detect malaria from red blood cells images using Deep Learning**  
 
 **I am writing a code in Google Colab to use the GPU for Neural Network Training.**
 
@@ -30,4 +30,10 @@ Uninfected: The uninfected cells are free of the Plasmodium parasites
 
 This is a link to the dataset [https://drive.google.com/file/d/1n3o1Xghpy9ufZwHkQFE5l5d9sUHQOUWM/view]  
 Description of data in the link above:  
-Unzip cell_images.zip. In the cell_images folder, there are train and test folders that contains Parasitized and Uninfected images.
+Unzip cell_images.zip. In the cell_images folder, there are train and test folders that contains Parasitized and Uninfected images.  
+
+--------
+## **Files**
+------  
+**Malaria_Detection_solution.ipynb**: contains exploratory data analysis (EDA), Deep Learning model training, and model testing  
+****Malaria_detection_report.pdf**: report summary of this project
