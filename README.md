@@ -12,6 +12,10 @@ Participation in Hackathon to predict the overall experience of passengers that 
 
 ## ML:  
 ------
-Including other Machine Learning Projects.
+Including other Machine Learning Projects.  
+
+## AWS SageMaker Classification Deployment  
+------
+This project contains two distinct machine learning projects focused on deploying classification models using AWS SageMaker. The projects are designed to address real-world problems in visa approval prediction and hotel reservation cancellation prediction. Both projects leverage AWS SageMaker for efficient model deployment and pipeline management.
   
 
