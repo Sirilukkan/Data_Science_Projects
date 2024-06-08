@@ -62,17 +62,6 @@ The dataset includes various attributes related to hotel bookings:
 - Python 3.x
 - Jupyter Notebook
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
-
-
-Certainly! Here is a section you can add to the README file for acknowledgments:
-
 ## Acknowledgements
 
 These projects were completed as part of the Boostcamp program called "Data Science with AWS" from Great Learning. I would like to extend my gratitude to the instructors and peers who provided valuable insights and support throughout the program. Special thanks to the team at Great Learning for designing a comprehensive curriculum that enabled me to develop and deploy these machine-learning models using AWS SageMaker. 
