@@ -114,7 +114,7 @@ The `tox` testing framework configuration:
 
 The pipeline that we create follows a typical Machine Learning Application pattern of pre-processing, training, evaluation, and conditional model registration and publication, if the quality of the model is sufficient.
 
-![A typical ML Application pipeline](img/pipeline-full.png)
+![alt text](SageMaker_Pipeline.png)
 
 ### Getting some constants
 
