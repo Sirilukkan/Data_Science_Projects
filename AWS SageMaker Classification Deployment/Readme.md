@@ -54,26 +54,11 @@ The dataset includes various attributes related to hotel bookings:
 - **no_of_special_requests:** Total number of special requests made by the customer
 - **booking_status:** Flag indicating if the booking was canceled
 
-## Project Structure
-
-```
-├── visa-approval
-│   ├── data
-│   ├── notebooks
-│   └── README.md
-├── hotel-cancellation
-│   ├── data
-│   ├── notebooks
-│   ├── scripts
-│   └── README.md
-└── README.md
-```
-
 ## Getting Started
 
 ### Prerequisites
 - AWS Account
-- AWS SageMaker; Lauching Studio to use jupyter notebook
+- AWS SageMaker; Launching Studio to use jupyter notebook
 - Python 3.x
 - Jupyter Notebook
 
@@ -86,8 +71,8 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License.
 
 
-Certainly! Here is a section you can add to the README file for acknowledgements:
+Certainly! Here is a section you can add to the README file for acknowledgments:
 
 ## Acknowledgements
 
-These projects were completed as part of the Boostcamp program called "Data Science with AWS" from Great Learning. I would like to extend my gratitude to the instructors and peers who provided valuable insights and support throughout the program. Special thanks to the team at Great Learning for designing a comprehensive curriculum that enabled me to develop and deploy these machine learning models using AWS SageMaker. 
+These projects were completed as part of the Boostcamp program called "Data Science with AWS" from Great Learning. I would like to extend my gratitude to the instructors and peers who provided valuable insights and support throughout the program. Special thanks to the team at Great Learning for designing a comprehensive curriculum that enabled me to develop and deploy these machine-learning models using AWS SageMaker. 
