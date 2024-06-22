@@ -16,6 +16,12 @@ Including other Machine Learning Projects.
 
 ## AWS SageMaker Classification Deployment  
 ------
-This project contains two distinct machine learning projects focused on deploying classification models using AWS SageMaker. The projects are designed to address real-world problems in visa approval prediction and hotel reservation cancellation prediction. Both projects leverage AWS SageMaker for efficient model deployment and pipeline management.
+This project contains two distinct machine learning projects focused on deploying classification models using AWS SageMaker. The projects are designed to address real-world problems in visa approval prediction and hotel reservation cancellation prediction. Both projects leverage AWS SageMaker for efficient model deployment and pipeline management.  
+
+
+## Marketing Campaign Analysis  
+------
+This project focuses on comprehensive statistical analysis and visualization of marketing campaign data, providing actionable insights that guided marketing strategy formulation for the CMO.
+
   
 
